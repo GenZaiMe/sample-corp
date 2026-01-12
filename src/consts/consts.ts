@@ -15,7 +15,7 @@ export const SITE_CONFIG = {
   lang: "ja",
 
   // dark/light はモード（文字色と背景のコントラスト）
-  defaultTheme: "dark" as "dark" | "light",
+  defaultTheme: "light" as "dark" | "light",
 
   // ★アクセントは「枠・見出し・Markdown装飾」にだけ使う想定
   // GenZaiMe は red(mr) を既定にする
